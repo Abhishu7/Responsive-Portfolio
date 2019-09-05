@@ -253,6 +253,7 @@ header {
   header {
       position: static;
       clear: both;
+      width: 100%
   }
 
   #masthead {
